@@ -18,7 +18,7 @@ A collection list of cyber security data
 
 
 ## Traffic Associated  
-[KDD99](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html) : **Network intrusion**.
+[KDD99](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html) : **Network intrusion**.  
 [PCAP Files](https://www.netresec.com/?page=PcapFiles) : Including **Malware Traffic, Network Forensics, SCADA/ICS Network Captures** and more.  
 [DGA Families](https://data.netlab.360.com/dga/) : 360 **DGA Families** datasets.  
 [Alexa Top 1 Million Sites](https://www.kaggle.com/cheedcheed/top1m) : A listing of the top 1-million **websites** according to Alexa.com.  
