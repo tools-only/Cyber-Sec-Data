@@ -1,5 +1,5 @@
 # Cyber-Sec-Data
-the collection of cybersecurity data
+Cyber security data collection
 ## Security Related Data  
 [Secrepo](http://www.secrepo.com/#about) : Including **Network, Malware, System, File, Password, Threats feeds** and so on.   
 [Stratosphere IPS Dataset](https://www.stratosphereips.org/category/dataset.html) : **Malware captures** and so on.  
