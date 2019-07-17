@@ -24,7 +24,7 @@ A collection list of cyber security data
 [Alexa Top 1 Million Sites](https://www.kaggle.com/cheedcheed/top1m) : A listing of the top 1-million **websites** according to Alexa.com. 
 
 # Blog 
-(AI Village)[https://aivillage.org/blog] : AI Village educating people on the use and abuse of AI in security and privacy.   
+[AI Village](https://aivillage.org/blog) : AI Village educating people on the use and abuse of AI in security and privacy.   
 # Competition
 Competition : [360 Datacon](http://butian.360.net/Active/dataconDetail.html#gj)  
 WP(Notebook) : [DNS Attack Identification Notebook](http://momomoxiaoxi.com/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/2019/04/24/datacondns1/) 
