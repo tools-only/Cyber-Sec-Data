@@ -21,7 +21,7 @@ A collection list of cyber security data
 [KDD99](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html) : **Network intrusion**.  
 [PCAP Files](https://www.netresec.com/?page=PcapFiles) : Including **Malware Traffic, Network Forensics, SCADA/ICS Network Captures** and more.  
 [DGA Families](https://data.netlab.360.com/dga/) : 360 **DGA Families** datasets.  
-[Alexa Top 1 Million Sites](https://www.kaggle.com/cheedcheed/top1m) : A listing of the top 1-million **websites** according to Alexa.com. 
+[Alexa Top 1 Million Sites](https://www.kaggle.com/cheedcheed/top1m) : A listing of the top 1-million **websites** according to Alexa.com.   
 [Deep Traffic](https://github.com/echowei/DeepTraffic) : **Malware Traffic Classification Using CNN for Representation Learning**, dataset and code.   
 # Blog 
 [AI Village](https://aivillage.org/blog) : AI Village educating people on the use and abuse of AI in security and privacy.   
