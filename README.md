@@ -16,7 +16,7 @@ A collection list of cyber security data
 [The Drebin Dataset](https://www.sec.cs.tu-bs.de/~danarp/drebin/) : The dataset contains 5,560 applications from 179 different **android malware families**.   
 [2007 TREC Public Spam Corpus](https://plg.uwaterloo.ca/~gvcormac/treccorpus07/) : **SPAM dataset**.  
 [Malware Datasets for Analysts and Data Scientists](https://www.peerlyst.com/posts/malware-datasets-for-analysts-and-data-scientists-chiheb-chebbi) : Datasets and ML papers.  
-
+[DDS](https://datadrivensecurity.info/blog/pages/dds-dataset-collection.html) : **Honeypots and Malware Domains**. 
 ## Traffic Associated  
 [KDD99](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html) : **Network intrusion**.  
 [PCAP Files](https://www.netresec.com/?page=PcapFiles) : Including **Malware Traffic, Network Forensics, SCADA/ICS Network Captures** and more.  
